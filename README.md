@@ -1,4 +1,7 @@
 # Coded by - WebDux (vakh0) -
+
+![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.universal-solder.ca%2Fwp-content%2Fuploads%2F2018%2F02%2Fesp8266_cp2101_1.jpg&f=1&nofb=1&ipt=8f9e7acab37727400459223e00acd452c5ca3967780bdbd240be9f1a3e3660dc&ipo=images)
+
 - EspHook v0.9 Beta
 - ეს ფაილი უნდა დაფლეშოთ esp8266 v1.0-ზე Arduino IDE-ს გამოყენებით.
 - როცა მოწყობილობას ჩართავთ და მსხვერპლი დაუკავშირდება Google WiFi-ს პროგრამა ინტერნეტის მისაღებად
